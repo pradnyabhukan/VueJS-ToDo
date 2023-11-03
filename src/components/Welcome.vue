@@ -6,5 +6,6 @@
     h1{
         color: rgb(6, 124, 124);
         text-align: center;
+        font-size: 80px;
     }
 </style>
